@@ -22,7 +22,7 @@
         <allure-selenide.version>2.20.1</allure-selenide.version>
         <slf4j-simple.version>2.0.5</slf4j-simple.version>
         <allure-maven.version>2.10.0</allure-maven.version>
-        <webdrivermanager.version>5.3.2</webdrivermanager.version>
+        <webdrivermanager.version>5.5.0</webdrivermanager.version>
         <rest-assured.version>5.3.0</rest-assured.version>
         <owner.version>1.0.12</owner.version>
         <assertj.version>3.24.2</assertj.version>
